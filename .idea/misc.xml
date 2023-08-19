@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/SP-ClientMgmt/pom.xml" />
+        <option value="$PROJECT_DIR$/RP-Common-Lib/pom.xml" />
+        <option value="$PROJECT_DIR$/SP-CashMgmt/pom.xml" />
+        <option value="$PROJECT_DIR$/SP-Bank-GW/pom.xml" />
+        <option value="$PROJECT_DIR$/SP-Notifications/pom.xml" />
+        <option value="$PROJECT_DIR$/SP-ContractMgmt/pom.xml" />
+        <option value="$PROJECT_DIR$/RP-IAM/IAMClient/pom.xml" />
+        <option value="$PROJECT_DIR$/RP-IAM/IAMStaff/pom.xml" />
+        <option value="$PROJECT_DIR$/SP-Core-BO/pom.xml" />
+        <option value="$PROJECT_DIR$/SP-Workflow/aml-module/pom.xml" />
+        <option value="$PROJECT_DIR$/SP-Workflow/cash-transfer-module/pom.xml" />
+        <option value="$PROJECT_DIR$/SP-Workflow/cash-deposit-module/pom.xml" />
+        <option value="$PROJECT_DIR$/SP-Utilites/pom.xml" />
+        <option value="$PROJECT_DIR$/SP-Storage/pom.xml" />
+        <option value="$PROJECT_DIR$/RP-Audit/pom.xml" />
+        <option value="$PROJECT_DIR$/MFA/pom.xml" />
+        <option value="$PROJECT_DIR$/SP-HSC/pom.xml" />
+        <option value="$PROJECT_DIR$/SP-CustodyMgmt/pom.xml" />
+        <option value="$PROJECT_DIR$/SP-Workflow/common-module/pom.xml" />
+        <option value="$PROJECT_DIR$/SP-Workflow/contract-module/pom.xml" />
+        <option value="$PROJECT_DIR$/SP-Workflow/client-code-module/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

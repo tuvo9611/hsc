@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/CSP-POC" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Corre-Automation" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/DTI_DevOps" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/FE-Emulator-Bank-Gateway" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/MFA" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/RP-Audit" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/RP-Common-Lib" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/RP-IAM" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/RP-IAM-Backup" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/RP-Releases" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/SP-Bank-GW" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/SP-CashMgmt" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/SP-ClientMgmt" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/SP-ContractMgmt" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/SP-Core-Automation" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/SP-Core-BO" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/SP-CustodyMgmt" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/SP-Dapr" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/SP-HSC" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/SP-Migrate-Database" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/SP-Notifications" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/SP-POC" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/SP-Storage" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/SP-Trading-API" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/SP-Utilites" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/SP-Workflow" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/SP-automation-test" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/TFE" vcs="Git" />
+  </component>
+</project>

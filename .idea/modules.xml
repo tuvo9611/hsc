@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/SP-Bank-GW/bank-gw.iml" filepath="$PROJECT_DIR$/SP-Bank-GW/bank-gw.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SP-ClientMgmt/client-mgmt.iml" filepath="$PROJECT_DIR$/SP-ClientMgmt/client-mgmt.iml" />
+    </modules>
+  </component>
+</project>
