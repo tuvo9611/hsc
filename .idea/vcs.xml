@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/CSP-POC" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Corre-Automation" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/DTI_DevOps" vcs="Git" />
@@ -27,7 +28,7 @@
     <mapping directory="$PROJECT_DIR$/SP-Trading-API" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/SP-Utilites" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/SP-Workflow" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/SP-automation-test" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Service-Platform" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/TFE" vcs="Git" />
   </component>
 </project>

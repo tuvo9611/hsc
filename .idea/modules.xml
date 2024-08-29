@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/HSC.iml" filepath="$PROJECT_DIR$/.idea/HSC.iml" />
       <module fileurl="file://$PROJECT_DIR$/SP-Bank-GW/bank-gw.iml" filepath="$PROJECT_DIR$/SP-Bank-GW/bank-gw.iml" />
       <module fileurl="file://$PROJECT_DIR$/SP-ClientMgmt/client-mgmt.iml" filepath="$PROJECT_DIR$/SP-ClientMgmt/client-mgmt.iml" />
     </modules>
